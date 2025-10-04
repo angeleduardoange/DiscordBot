@@ -2,8 +2,13 @@
   "examenes": {
     "04/10/25": [
       "sexito?"
+    ],
+    "06/10/25": [
+      "Prueba Examen Lunes"
     ]
   },
-  "mensajesPersonalizados": {},
-  "canalId": null
+  "mensajesPersonalizados": {
+    "06/10/25": "Prueba Horario Lunes"
+  },
+  "canalId": "1423820200364609536"
 }
